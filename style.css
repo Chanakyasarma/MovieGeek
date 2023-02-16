@@ -166,6 +166,8 @@ main{
     background-color: var(--secondary-color);
     position: relative;
     overflow: hidden;
+    border-style: solid;
+    border-color: aqua;
 }
 .movie img{
     width: 100%;

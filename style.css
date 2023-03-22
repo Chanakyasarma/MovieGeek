@@ -29,6 +29,7 @@ section{
     background:var(--secondary-color);
     color:var(--third-color);
     margin-top: 1rem;
+    border-radius:2px;
     cursor: pointer;
 }
 
